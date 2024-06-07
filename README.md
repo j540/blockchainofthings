@@ -1,2 +1,2 @@
-# blockchainofthings
+# BoT
 Blockchain of Things - BoT Cryptocurrency Protocol 
